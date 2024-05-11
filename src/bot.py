@@ -44,7 +44,7 @@ async def reset(ctx):
 
 
 @bot.command()
-async def memory(ctx):
+async def history(ctx):
 
     if len(llm.get_memory()) == 0:
         await ctx.send(f'```No memory found.```')
