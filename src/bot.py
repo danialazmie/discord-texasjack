@@ -23,6 +23,9 @@ async def on_ready():
 @bot.listen('on_message')
 async def chat(message):
 
+    if message.author == bot.user:
+        return
+
     # Chat command
     if message.content.startswith('tj '):
         response = llm.chat(message.content[3:])
