@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a simple project in implementeng a Chatbot in Discord using an LLM. The Chatbot was designed to only have a few features:
+This project is a simple project in implementing a Chatbot in Discord using an LLM. The Chatbot was designed to only have a few features:
 
 - History-aware chat 
 - Vulgarity detection
