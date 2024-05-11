@@ -64,6 +64,29 @@ Navigate to the `src` folder and run `python bot.py` which will start the bot.
 
 To stop the server, just hit `CTRL+C`.
 
+## Commands
+
+1. You can chat with the chatbot normall using prefix `tj `
+```
+User: tj Howdy partner
+Texas Jack: Howdy there, fella. What brings ya 'round these parts?
+```
+
+2. You can reset the chat history with `!tj reset`
+```
+User: !tj reset
+Texas Jack: Well, ain't this just dandy. Wipin' my memory, huh? Guess that means I won't remember all them times I whooped your sorry behinds. But hey, at least I won't have to listen to y'all whinin' no more. Guess I'll just have to start collectin' new memories, one bullet at a time. Yeehaw!
+```
+
+3. You can preview the historical messages with Texas Jack using `!tj history`
+```
+Human: howdy
+Texas Jack: Howdy there, fella. What brings ya 'round these parts?
+Human: wassup
+Texas Jack: Howdy there, partner. What's your business with Texas Jack?
+```
+
+
 ## Future Work
 
 - User-aware chat 
