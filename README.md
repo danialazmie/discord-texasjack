@@ -89,6 +89,7 @@ Texas Jack: Howdy there, partner. What's your business with Texas Jack?
 
 ## Future Work
 
+- Proper logging
 - User-aware chat 
 - Actions using agents:
   - Discord administrative actions
