@@ -53,7 +53,7 @@ The requirements for the project can be found in the `requirements.txt` file.
 
 - (Optional) Create a virtual environment `conda create --name <env-name> python=3.10.14`
 - (Optional) Activate the new environment `conda activate <env-name>`
-- Navigate to the src directory `cd <some_path>/src`
+- Navigate to the project directory `cd <some_path>` that contains requirements.txt
 - Execute `pip install -r requirements.txt`
 
 This will install all the required packages for the project to work.
